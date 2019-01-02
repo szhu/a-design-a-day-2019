@@ -1,4 +1,4 @@
-# An Idea a Day 2019
+# :bulb: An Idea a Day
 
 Hello, World!
 
@@ -11,15 +11,16 @@ With this repo, I aim to change that! By the end of 2019, I hope to be:
 - less lazy
 - more okay with imperfection and works in progress
 - better at striking a balance between writing fast and writing well 
-
-Plus, I'll have a cool repo of 365 ideas!
+…plus, I'll have a nice list of 365 ideas!
 
 Rules:
 - On each day in 2019, I will add a new idea to this repo.
-- The ideas may be never-before-seen, or I might have started working on them before. It just can't be an idea that I've already made a detailed spec or working minimum viable product (MVP) of.
+- The ideas may be completely new, or it could be something I've started thinking about or working on previously. It just can't be an idea for which I've already made a detailed spec, a minimum viable product (MVP), of proof of concept.
 - On some days, the idea of the day may be a significant revision/feature/improvement on a previous day's idea. No more than 1/3 of the days (<122 days) may be used to revise ideas. However, other than that, there is no limit on how many days each idea can revised.
 
-- Sean Zhu
+I hope that this repo – or the ideas contained therein – inspires you as well!
+
+– Sean Zhu (github.com/szhu)
 
 ---
 
