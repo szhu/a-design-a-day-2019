@@ -32,3 +32,4 @@ P.S. check out my previous attempt at this (I lasted a grand total of 1 day): ht
 | Day | Kind    | Idea                  |
 | --- | ------- | --------------------- |
 | 1/1 | Process | This repo!            |
+| 1/2 |         | [Relative link calculator](designs/relative-link-calculator.md) |
