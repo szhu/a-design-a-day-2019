@@ -29,7 +29,8 @@ P.S. check out my previous attempt at this (I lasted a grand total of 1 day): ht
 
 ## Ideas!
 
-| Day | Kind    | Idea                  |
-| --- | ------- | --------------------- |
-| 1/1 | Process | This repo!            |
-| 1/2 |         | [Relative link calculator](designs/relative-link-calculator.md) |
+| Day | Kind     | Idea
+| --- | -------  | --------------------- 
+| 1/1 | Process  | This repo!
+| 1/2 |          | [Relative link calculator](designs/relative-link-calculator.md)
+| 1/3 | Hardware | [Laptop with Non-Backlit LCD Screen](designs/laptop-with-non-backlit-lcd-screen.md)
