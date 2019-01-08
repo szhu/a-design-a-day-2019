@@ -31,6 +31,7 @@ P.S. check out my previous attempt at this (I lasted a grand total of 1 day): ht
 
 | Day | Kind     | Idea
 | --- | -------  | --------------------- 
+| 1/7 | Frontend | [React Collapsing Element](designs/react-collapsing-element.md)
 | 1/6 | Hardware | [Microwave Mute Button](designs/microwave-mute-button.md)
 | 1/5 | Backend  | [Sort JSON with Comments](designs/sort-json-with-comments.md)
 | 1/4 | Frontend | [GitHub Web Code Editor](designs/github-web-code-editor.md)
