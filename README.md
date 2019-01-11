@@ -29,14 +29,15 @@ P.S. check out my previous attempt at this (I lasted a grand total of 1 day): ht
 
 ## Ideas!
 
-| Day | Kind     | Idea
-| --- | -------  | ---------------------
-| 1/9 | Frontend | [JavaScript Page Busy Indicator](designs/javascript-page-busy-indicator.md)
-| 1/8 | Hardware | [Standard Physical I/O for All Devices](designs/standard-physical-io-for-all-devices.md)
-| 1/7 | Frontend | [React Collapsing Element](designs/react-collapsing-element.md)
-| 1/6 | Hardware | [Microwave Mute Button](designs/microwave-mute-button.md)
-| 1/5 | Backend  | [Sort JSON with Comments](designs/sort-json-with-comments.md)
-| 1/4 | Frontend | [GitHub Web Code Editor](designs/github-web-code-editor.md)
-| 1/3 | Hardware | [Laptop with Non-Backlit LCD Screen](designs/laptop-with-non-backlit-lcd-screen.md)
-| 1/2 | Backend  | [Relative link calculator](designs/relative-link-calculator.md)
-| 1/1 | Process  | This repo!
+| Day  | Kind     | Idea
+| ---- | -------  | ---------------------
+| 1/10 | Backend  | [Tabular JSON](designs/tabular-json.md)
+| 1/9  | Frontend | [JavaScript Page Busy Indicator](designs/javascript-page-busy-indicator.md)
+| 1/8  | Hardware | [Standard Physical I/O for All Devices](designs/standard-physical-io-for-all-devices.md)
+| 1/7  | Frontend | [React Collapsing Element](designs/react-collapsing-element.md)
+| 1/6  | Hardware | [Microwave Mute Button](designs/microwave-mute-button.md)
+| 1/5  | Backend  | [Sort JSON with Comments](designs/sort-json-with-comments.md)
+| 1/4  | Frontend | [GitHub Web Code Editor](designs/github-web-code-editor.md)
+| 1/3  | Hardware | [Laptop with Non-Backlit LCD Screen](designs/laptop-with-non-backlit-lcd-screen.md)
+| 1/2  | Backend  | [Relative link calculator](designs/relative-link-calculator.md)
+| 1/1  | Process  | This repo!
