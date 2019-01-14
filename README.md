@@ -31,6 +31,7 @@ P.S. check out my previous attempt at this (I lasted a grand total of 1 day): ht
 
 | Day  | Kind     | Idea
 | ---- | -------  | ---------------------
+| 1/12 | Hardware | [Indoor Skiing](designs/indoor-skiing.md)
 | 1/11 | Hardware | [Floor-Wall Lamp](designs/floor-wall-lamp.md)
 | 1/10 | Backend  | [Tabular JSON](designs/tabular-json.md)
 | 1/9  | Frontend | [JavaScript Page Busy Indicator](designs/javascript-page-busy-indicator.md)
