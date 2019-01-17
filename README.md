@@ -31,6 +31,9 @@ P.S. check out my previous attempt at this (I lasted a grand total of 1 day): ht
 
 | Day  | Kind     | Idea
 | ---- | -------  | ---------------------
+| 1/15 | Frontend | [Exponential Volume Control](designs/exponential-volume-control.md)
+| 1/14 | Hardware | [Standardized Headlights](designs/standardized-headlights.md)
+| 1/13 | Hardware | [Self-Righting Game Tiles](designs/self-righting-game-tiles.md)
 | 1/12 | Hardware | [Indoor Skiing](designs/indoor-skiing.md)
 | 1/11 | Hardware | [Floor-Wall Lamp](designs/floor-wall-lamp.md)
 | 1/10 | Backend  | [Tabular JSON](designs/tabular-json.md)
