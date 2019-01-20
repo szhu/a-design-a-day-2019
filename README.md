@@ -31,6 +31,11 @@ P.S. check out my previous attempt at this (I lasted a grand total of 1 day): ht
 
 | Day  | Kind     | Idea
 | ---- | -------  | ---------------------
+| 1/20 | Frontend | [Per-Chat and Importance Alert Tones](designs/per-chat-and-importance-alert-tones.md)
+| 1/19 | Frontend | [Music Speed/Loop Control App](designs/music-speed-loop-control-app.md)
+| 1/18 | Frontend | [User-Friendly Password Rejection](designs/user-friendly-password-rejection.md)
+| 1/17 | Frontend | ["Mute All Except..." Option](designs/mute-all-except-option.md)
+| 1/16 | Frontend | [Conversational Shell](designs/conversational-shell.md)
 | 1/15 | Frontend | [Exponential Volume Control](designs/exponential-volume-control.md)
 | 1/14 | Hardware | [Standardized Headlights](designs/standardized-headlights.md)
 | 1/13 | Hardware | [Self-Righting Game Tiles](designs/self-righting-game-tiles.md)
