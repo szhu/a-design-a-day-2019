@@ -31,6 +31,7 @@ P.S. check out my previous attempt at this (I lasted a grand total of 1 day): ht
 
 | Day  | Kind     | Idea
 | ---- | -------  | ---------------------
+| 1/21 | Frontend | [Unified Chronological Message Log](designs/unified-chronological-message-log.md)
 | 1/20 | Frontend | [Per-Chat and Importance Alert Tones](designs/per-chat-and-importance-alert-tones.md)
 | 1/19 | Frontend | [Music Speed/Loop Control App](designs/music-speed-loop-control-app.md)
 | 1/18 | Frontend | [User-Friendly Password Rejection](designs/user-friendly-password-rejection.md)
