@@ -31,6 +31,7 @@ P.S. check out my previous attempt at this (I lasted a grand total of 1 day): ht
 
 | Day  | Kind     | Idea
 | ---- | -------  | ---------------------
+| 1/23 | UI/UX    | [Grouped Windows](designs/grouped-windows.md)
 | 1/22 | Backend  | [JSON Command-Line Programs](designs/json-command-line-programs.md)
 | 1/21 | Frontend | [Unified Chronological Message Log](designs/unified-chronological-message-log.md)
 | 1/20 | Frontend | [Per-Chat and Importance Alert Tones](designs/per-chat-and-importance-alert-tones.md)
