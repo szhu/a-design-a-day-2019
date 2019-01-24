@@ -31,6 +31,7 @@ P.S. check out my previous attempt at this (I lasted a grand total of 1 day): ht
 
 | Day  | Kind     | Idea
 | ---- | -------  | ---------------------
+| 1/25 | Hardware | [Parallel Parking Wheels](designs/parallel-parking-wheels.md)
 | 1/24 | Frontend | [Forkable Utility Website](designs/forkable-util-website.md)
 | 1/23 | UI/UX    | [Grouped Windows](designs/grouped-windows.md)
 | 1/22 | Backend  | [JSON Command-Line Programs](designs/json-command-line-programs.md)
